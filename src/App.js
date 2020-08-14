@@ -1,11 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-function prueba() {
 
-  let valor = 0
-return valor;
-}
 
 class App extends Component {
 
